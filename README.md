@@ -58,15 +58,6 @@ Kafka Producer ──► Topic: vinmec.chat.jobs
 
 ---
 
-## Nội dung repo này
 
-| File/Folder | Mô tả |
-|---|---|
-| `reflection.md` | Individual reflection — role, đóng góp, bài học |
-| `extras/prompt-test-log.md` | Log test system prompt qua 15+ test cases |
-| `extras/guardrails-design.md` | Quá trình thiết kế 5 lớp guardrails — iterations và lý do chọn |
-| `extras/security-fixes-notes.md` | Ghi chú khi tìm và fix 3 lỗ hổng bảo mật |
-
----
 
 *VinUni A20 — AI Thực Chiến · Day 06 · 09/04/2026*
